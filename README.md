@@ -49,9 +49,9 @@
 
 ## 📊 GitHub Analytics
 
-![Alain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alainabraham&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alainabraham&layout=compact&theme=radical)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alainabraham&theme=github)
+![Alain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alain-Abraham-Hub&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alain-Abraham-Hub&layout=compact&theme=radical)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alain-Abraham-Hub&theme=github)
 
 ---
 
