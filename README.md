@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/alainabraham/Alain-Abraham-Hub/main/hi.png" width="100%" alt="Welcome Banner" />
+<img src="https://raw.githubusercontent.com/Alain-Abraham-Hub/Alain-Abraham-Hub/main/hi.png" width="100%" alt="Welcome Banner" />
 
 # 👋 Hi, I'm **Alain Abraham**
 
