@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/alainabraham/alainabraham/assets/banner.png" width="100%" alt="Welcome Banner" />
+<img src="https://in.pinterest.com/pin/407505466307836372" width="100%" alt="Welcome Banner" />
 
 # 👋 Hi, I'm **Alain Abraham**
 
