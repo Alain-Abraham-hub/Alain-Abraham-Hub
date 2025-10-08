@@ -4,14 +4,14 @@
 # 👋 Hi, I'm **Alain Abraham**
 
 🎓 *Data Engineering & AI Enthusiast*  
-☁️ Exploring **AWS Cloud**, **Quantum Information**, and **Cyber Defense Technologies**  
-💡 Passionate about solving real-world problems using data, machine learning,secure computation and Quatum technologies.  
+☁️ Exploring **AWS Cloud**, **Quantum Computing**, and **Cyber Defense Technologies**  
+💡 Passionate about solving real-world problems using data, machine learning, and secure computation.  
 
 ---
 
 ## 🧠 About Me
 - 🔭 Currently working on: **Blockchain-Based Blue Carbon Registry and MRV System**  
-- 🌱 Learning more about **Post-Quantum Cryptography (PQC)** and **Blockchain Security**  and ** Quantum computing**
+- 🌱 Learning more about **Quantum Computing** and **Post-Quantum Cryptography (PQC)**  
 - 💬 Ask me about **Python**, **Data Engineering**, **Streamlit Apps**, or **AWS Architecture**  
 - 🎯 Goal: To bridge **AI**, **Data Systems**, and **Quantum Computing** for sustainable innovation  
 
@@ -26,6 +26,7 @@
 
 **Frameworks & Tools:**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
@@ -42,6 +43,7 @@
 |-------------|----------------|---------------|
 | [🎵 **Spotify Data Dashboard**](https://github.com/alainabraham/spotify-dashboard) | Interactive Streamlit dashboard analyzing user music patterns using MySQL backend. | Python, Streamlit, MySQL |
 | [🌿 **Blockchain-Based Blue Carbon Registry and MRV System**](https://github.com/alainabraham/bluecarbon-registry) | Secure and transparent carbon accounting system integrating blockchain ledger, MRV automation, and PQC-enhanced security for national reporting and blue carbon projects. | Blockchain, Hyperledger, PQC, Python, AWS |
+| [⚛️ **Quantum VQE Molecular Ground State Finder**](https://github.com/alainabraham/quantum-vqe) | Simulated molecular ground state estimation using the **Variational Quantum Eigensolver (VQE)** algorithm implemented with Qiskit. | Qiskit, Python, Quantum Computing |
 
 ---
 
@@ -55,13 +57,11 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/alainabraham)
-[![Email](https://img.shields.io/badge/Email-contact-red)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alain-abraham-b91193304)  
+[![Email](https://img.shields.io/badge/Email-alainabraham2006@gmail.com-red)](mailto:alainabraham2006@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://alainabraham.github.io)
 
 ---
 
 ### ✨ “Code. Learn. Build. Repeat.”
-> _"Technology should empower people — not replace them."_ 💫## Hi there 👋
-
-
+> _"Technology should empower people — not replace them."_ 💫
