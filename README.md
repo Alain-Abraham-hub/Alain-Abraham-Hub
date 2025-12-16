@@ -4,16 +4,16 @@
 # 👋 Hi, I'm **Alain Abraham**
 
 🎓 *Data Engineering & AI Enthusiast*  
-☁️ Exploring **AWS Cloud**, **Quantum Computing**, and **Cyber Defense Technologies**  
-💡 Passionate about solving real-world problems using data, machine learning, and secure computation.  
+☁️ Exploring **Qiskit**, **Quantum Computing**, and **Cyber Defense Technologies**  
+💡 Passionate about solving real-world problems using Quantum Computing, machine learning, and secure computation.  
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on: **Blockchain-Based Blue Carbon Registry and MRV System**  
+- 🔭 Currently working on: **Quantum Computing concepts and Algorithms**  
 - 🌱 Learning more about **Quantum Computing** and **Post-Quantum Cryptography (PQC)**  
-- 💬 Ask me about **Python**, **Data Engineering**, **Streamlit Apps**, or **AWS Architecture**  
-- 🎯 Goal: To bridge **AI**, **Data Systems**, and **Quantum Computing** for sustainable innovation  
+- 💬 Ask me about **Python**, **Quantum Computing**, **API**, or **Web development**  
+- 🎯 Goal: To bridge **AI**, **Machine Learning**, and **Quantum Computing** for sustainable innovation  
 
 ---
 
