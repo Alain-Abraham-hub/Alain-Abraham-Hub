@@ -20,20 +20,22 @@
 ## 💻 Tech Stack
 
 **Languages:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
 **Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 **Cloud & Databases:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?logo=amazonredshift&logoColor=white)
 
 ---
 
@@ -41,8 +43,6 @@
 
 | 🌟 Project | 🔍 Description | 🧩 Tech Used |
 |-------------|----------------|---------------|
-| [🎵 **Spotify Data Dashboard**](https://github.com/alainabraham/spotify-dashboard) | Interactive Streamlit dashboard analyzing user music patterns using MySQL backend. | Python, Streamlit, MySQL |
-| [🌿 **Blockchain-Based Blue Carbon Registry and MRV System**](https://github.com/alainabraham/bluecarbon-registry) | Secure and transparent carbon accounting system integrating blockchain ledger, MRV automation, and PQC-enhanced security for national reporting and blue carbon projects. | Blockchain, Hyperledger, PQC, Python, AWS |
 | [⚛️ **Quantum VQE Molecular Ground State Finder**](https://github.com/alainabraham/quantum-vqe) | Simulated molecular ground state estimation using the **Variational Quantum Eigensolver (VQE)** algorithm implemented with Qiskit. | Qiskit, Python, Quantum Computing |
 
 ---
