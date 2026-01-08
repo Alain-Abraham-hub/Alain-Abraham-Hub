@@ -65,9 +65,21 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alain-abraham-b91193304)  
-[![Email](https://img.shields.io/badge/Email-alainabraham2006@gmail.com-red)](mailto:alainabraham2006@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://Alain-Abraham-Hub.github.io)
+<div align="center">
+	<a href="https://www.linkedin.com/in/alain-abraham-b91193304" title="Connect on LinkedIn">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	&nbsp;
+	<a href="mailto:alainabraham2006@gmail.com" title="Email me">
+		<img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	&nbsp;
+	<a href="https://Alain-Abraham-Hub.github.io" title="Visit my Portfolio">
+		<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+	</a>
+  
+	<!-- Add more: GitHub | Twitter | Dev.to | Medium -->
+</div>
 
 ---
 
