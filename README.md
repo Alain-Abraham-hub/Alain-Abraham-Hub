@@ -49,8 +49,16 @@
 
 ## 📊 GitHub Analytics
 
-![Alain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alain-Abraham-Hub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alain-Abraham-Hub&layout=compact&theme=radical)  
+<!--
+	The public demo of github-readme-stats is currently paused (503 DEPLOYMENT_PAUSED).
+	To self-host, fork https://github.com/anuraghazra/github-readme-stats and deploy to Vercel,
+	then replace YOUR-DEPLOYMENT below with your Vercel domain and uncomment the two lines.
+
+	![Alain's GitHub stats](https://YOUR-DEPLOYMENT.vercel.app/api?username=Alain-Abraham-Hub&show_icons=true&theme=radical)
+	![Top Langs](https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=Alain-Abraham-Hub&layout=compact&theme=radical)
+-->
+
+![Contribution Streak](https://streak-stats.demolab.com?user=Alain-Abraham-Hub&theme=radical)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alain-Abraham-Hub&theme=github)
 
 ---
