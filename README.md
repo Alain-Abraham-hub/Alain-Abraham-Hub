@@ -1,27 +1,10 @@
-<!-- Banner with Typing Animation -->
-<div align="center" style="padding: 40px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; margin-bottom: 20px;">
-  <h1 style="color: white; margin: 0; font-size: 2.5em; letter-spacing: 2px;">
-    <span style="display: inline-block; animation: typing 3.5s steps(40, end) infinite;">
-      Welcome to My Hub
-    </span>
-    <span style="display: inline-block; width: 3px; height: 1.2em; background: white; margin-left: 5px; animation: blink 0.7s infinite; vertical-align: middle;"></span>
-  </h1>
-</div>
-
-<style>
-  @keyframes typing {
-    0% { width: 0; }
-    40% { width: 100%; }
-    50% { width: 100%; }
-    90% { width: 100%; }
-    100% { width: 0; }
-  }
-  
-  @keyframes blink {
-    0%, 49% { background: white; }
-    50%, 100% { background: transparent; }
-  }
-</style>
+<!-- Typing banner (SVG so it animates on GitHub) -->
+<p align="center">
+	<img
+		src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+My+Hub;This+is+Alain+Abraham"
+		alt="Typing introduction"
+	/>
+</p>
 
 # 👋 Hi, I'm **Alain Abraham**
 Data Engineering & AI Enthusiast
