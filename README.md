@@ -1,5 +1,27 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/Alain-Abraham-Hub/Alain-Abraham-Hub/main/hi.png" width="100%" alt="Welcome Banner" />
+<!-- Banner with Typing Animation -->
+<div align="center" style="padding: 40px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; margin-bottom: 20px;">
+  <h1 style="color: white; margin: 0; font-size: 2.5em; letter-spacing: 2px;">
+    <span style="display: inline-block; animation: typing 3.5s steps(40, end) infinite;">
+      Welcome to My Hub
+    </span>
+    <span style="display: inline-block; width: 3px; height: 1.2em; background: white; margin-left: 5px; animation: blink 0.7s infinite; vertical-align: middle;"></span>
+  </h1>
+</div>
+
+<style>
+  @keyframes typing {
+    0% { width: 0; }
+    40% { width: 100%; }
+    50% { width: 100%; }
+    90% { width: 100%; }
+    100% { width: 0; }
+  }
+  
+  @keyframes blink {
+    0%, 49% { background: white; }
+    50%, 100% { background: transparent; }
+  }
+</style>
 
 # 👋 Hi, I'm **Alain Abraham**
 Data Engineering & AI Enthusiast
@@ -47,18 +69,20 @@ Data Engineering & AI Enthusiast
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	&nbsp;
-	<a href="mailto:alainabraham2006@gmail.com" title="Email me">
-		<img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+	<a href="https://Alain-Abraham-Hub.github.io" title="Visit my Portfolio">
+		<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
 	</a>
 	&nbsp;
-	<a href="https://Alain-Abraham-Hub.github.io" title="Visit my Portfolio">
-		<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+	<a href="mailto:alainabrahamsj@gmail.com" title="Email me">
+		<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-  
-	<!-- Add more: GitHub | Twitter | Dev.to | Medium -->
+	&nbsp;
+	<a href="https://leetcode.com/Alain_Abraham/" title="Check my LeetCode Profile">
+		<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+	</a>
 </div>
 
 ---
 
 ### ✨ “Code. Learn. Build. Repeat.”
-> _"Technology should empower people — not replace them."_ 💫
+
