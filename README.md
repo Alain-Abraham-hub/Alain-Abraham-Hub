@@ -7,7 +7,7 @@
 </p>
 
 # 👋 Hi, I'm **Alain Abraham**
-Data Engineering & AI Enthusiast
+
 🎓 *Quantum Computing and Machine learning Enthusiast*  
 ☁️ Exploring **Qiskit**, **Quantum Algorithms**, and **QML**  
 💡 Passionate about solving real-world problems using Quantum Computing, machine learning.  
@@ -26,6 +26,9 @@ Data Engineering & AI Enthusiast
 | 🌟 Project | 🔍 Description | 🧩 Tech Used |
 |-------------|----------------|---------------|
 | [⚛️ **Quantum VQE Molecular Ground State Finder**](https://github.com/alainabraham/quantum-vqe) | Simulated molecular ground state estimation using the **Variational Quantum Eigensolver (VQE)** algorithm implemented with Qiskit. | Qiskit, Python, Quantum Computing |
+| [🧪 **SQD Algorithm Ground State Finder**](https://github.com/Alain-Abraham-hub/SQD-Algorithm-Groundstatefinder) | Implementing the **SQD** algorithm to find the ground state of a molecule. | Qiskit, Python, Quantum Computing |
+| [🧲 **TFIM Quantum Dynamics Simulator**](https://github.com/Alain-Abraham-hub/TFIM-Quantum-Dynamics-Simulation) | Simulates quantum dynamics on a quantum computer and observes average magnetization, interactions, and Hamiltonian energy evolution over time. | Qiskit, Python, Quantum Computing |
+| [⚡ **QAOA MaxCut**](https://github.com/Alain-Abraham-hub/QAOA-MaxCut-QuantumHardware) | Implementing the **QAOA** algorithm to find the max-cut of a graph on IBM's quantum processor (ibm_fez). | Qiskit, Python, Quantum Computing |
 
 ---
 
@@ -67,5 +70,5 @@ Data Engineering & AI Enthusiast
 
 ---
 
-### ✨ “Code. Learn. Build. Repeat.”
+###  “Code. Learn. Build. Repeat.”
 
