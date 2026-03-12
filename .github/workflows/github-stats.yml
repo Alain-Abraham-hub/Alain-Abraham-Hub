@@ -29,5 +29,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # Available options: 'radical', 'dark', 'default', 'github', 'github_dark', 'vue', 'cobalt', 'dracula', 'monokai', 'solarized_light', 'solarized_dark'
-          THEME: 'radical'
