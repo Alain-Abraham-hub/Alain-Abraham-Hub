@@ -43,6 +43,11 @@
 	![Top Langs](https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=Alain-Abraham-Hub&layout=compact&theme=radical)
 -->
 
+### 💻 Most Used Languages
+
+![Top Languages by Repo](profile-summary-card-output/1-repos-per-language.svg)
+![Top Languages by Commit](profile-summary-card-output/2-most-commit-language.svg)
+
 ![Contribution Streak](https://streak-stats.demolab.com?user=Alain-Abraham-Hub&theme=radical)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alain-Abraham-Hub&theme=github)
 
