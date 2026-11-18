@@ -17,6 +17,7 @@
 
   <!-- Corner HUD brackets -->
   <g stroke="#6FF3FF" stroke-width="1.8" fill="none" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.6s" begin="-2.7s" repeatCount="indefinite" />
     <path d="M 2 20 L 2 2 L 24 2" />
     <path d="M 456 2 L 478 2 L 478 20" />
     <path d="M 2 155 L 2 173 L 24 173" />
@@ -25,8 +26,15 @@
 
   <!-- Header bar -->
   <text x="24" y="30" font-family="'Courier New', Menlo, monospace" font-size="11" letter-spacing="2" fill="#FF9A3C">04 // OPTIMIZATION</text>
+  <circle cx="364" cy="26.5" r="2.8" fill="#FF9A3C" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" begin="-0.3s" repeatCount="indefinite" />
+  </circle>
   <text x="456" y="30" text-anchor="end" font-family="'Courier New', Menlo, monospace" font-size="10" letter-spacing="1.5" fill="#FF9A3C">IBM_FEZ QPU</text>
   <line x1="24" y1="40" x2="456" y2="40" stroke="url(#topBar)" stroke-width="1" />
+  <line x1="24" y1="40" x2="456" y2="40" stroke="#FF9A3C" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="48 480" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="48" to="-480" dur="3.8s" begin="-2.7s" repeatCount="indefinite" />
+  </line>
 
   <!-- Title -->
   <text x="24" y="70" font-family="'Eurostile', 'Bank Gothic', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.2" fill="#E8FDFF" filter="url(#glow)">QAOA MaxCut Hardware</text>
