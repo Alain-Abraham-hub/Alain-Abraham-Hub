@@ -120,5 +120,5 @@
   <!-- Subtitle -->
   <text x="503" y="158" text-anchor="middle"
         font-family="'Courier New', Menlo, monospace" font-size="14" letter-spacing="6"
-        fill="#6FF3FF">QUANTUM COMPUTING  //  MACHINE LEARNING</text>
+        fill="#6FF3FF">BUILDING QUANTUM ALGORITHMS</text>
 </svg>
