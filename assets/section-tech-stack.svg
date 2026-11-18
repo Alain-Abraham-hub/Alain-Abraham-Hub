@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70">
+  <defs>
+    <linearGradient id="lineL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6FF3FF" stop-opacity="0" />
+      <stop offset="100%" stop-color="#6FF3FF" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="lineR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6FF3FF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#6FF3FF" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="70" fill="#000000" />
+
+  <line x1="40" y1="35" x2="350" y2="35" stroke="url(#lineL)" stroke-width="1.4" filter="url(#glow)" />
+  <line x1="650" y1="35" x2="960" y2="35" stroke="url(#lineR)" stroke-width="1.4" filter="url(#glow)" />
+
+  <g stroke="#6FF3FF" stroke-width="1.4" fill="none">
+    <path d="M 360 22 L 352 35 L 360 48" />
+    <path d="M 640 22 L 648 35 L 640 48" />
+  </g>
+
+  <text x="505" y="43" text-anchor="middle"
+        font-family="'Eurostile', 'Bank Gothic', 'Arial Black', 'Helvetica Neue', Arial, sans-serif"
+        font-size="24" font-weight="700" letter-spacing="10"
+        fill="#E8FDFF" stroke="#6FF3FF" stroke-width="0.4" filter="url(#glow)">TECH STACK</text>
+
+  <line x1="40" y1="35" x2="350" y2="35" stroke="#FF9A3C" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="40 600" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="40" to="-600" dur="4s" repeatCount="indefinite" />
+  </line>
+</svg>

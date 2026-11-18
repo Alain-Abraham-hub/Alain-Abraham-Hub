@@ -22,3 +22,42 @@
 > RUNTIME ..... Qiskit // IBM Quantum (ibm_fez)
 > DIRECTIVE ... Bridge AI and quantum computation to solve real-world problems
 ```
+
+<br />
+
+<div align="center">
+
+<img src="./assets/section-tech-stack.svg" alt="Tech Stack" width="100%" />
+
+<br />
+
+<sub><code>// QUANTUM</code></sub>
+
+<img src="https://img.shields.io/badge/QISKIT-000000?style=for-the-badge&logo=qiskit&logoColor=6FF3FF" alt="Qiskit" />
+<img src="https://img.shields.io/badge/IBM_QUANTUM-000000?style=for-the-badge" alt="IBM Quantum" />
+
+<sub><code>// LANGUAGES</code></sub>
+
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=6FF3FF" alt="Python" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=6FF3FF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=6FF3FF" alt="TypeScript" />
+
+<sub><code>// SCIENTIFIC COMPUTING</code></sub>
+
+<img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=6FF3FF" alt="NumPy" />
+<img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=6FF3FF" alt="Jupyter" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge" alt="Matplotlib" />
+
+<sub><code>// MACHINE LEARNING</code></sub>
+
+<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=6FF3FF" alt="PyTorch" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=6FF3FF" alt="scikit-learn" />
+
+<sub><code>// TOOLS</code></sub>
+
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=6FF3FF" alt="Git" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=6FF3FF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=6FF3FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZGRjNGRiIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D" alt="VS Code" />
+
+</div>
