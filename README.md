@@ -74,3 +74,40 @@
 <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZGRjNGRiIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D" alt="VS Code" />
 
 </div>
+
+<br />
+
+<div align="center">
+
+<img src="./assets/section-projects.svg" alt="Projects" width="100%" />
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/alainabraham/quantum-vqe">
+        <img src="./assets/project-vqe.svg" alt="Quantum VQE Molecular Ground State Finder" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Alain-Abraham-hub/SQD-Algorithm-Groundstatefinder">
+        <img src="./assets/project-sqd.svg" alt="SQD Algorithm Ground State Finder" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Alain-Abraham-hub/TFIM-Quantum-Dynamics-Simulation">
+        <img src="./assets/project-tfim.svg" alt="TFIM Quantum Dynamics Simulator" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Alain-Abraham-hub/QAOA-MaxCut-QuantumHardware">
+        <img src="./assets/project-qaoa.svg" alt="QAOA MaxCut on Quantum Hardware" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
