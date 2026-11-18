@@ -31,47 +31,62 @@
 
 <br />
 
-<sub><code>// QUANTUM</code></sub>
-
-<img src="https://img.shields.io/badge/QISKIT-000000?style=for-the-badge&logo=qiskit&logoColor=6FF3FF" alt="Qiskit" />
-<img src="https://img.shields.io/badge/IBM_QUANTUM-000000?style=for-the-badge" alt="IBM Quantum" />
-<img src="https://img.shields.io/badge/PENNYLANE-000000?style=for-the-badge" alt="PennyLane" />
-<img src="https://img.shields.io/badge/D--WAVE-000000?style=for-the-badge" alt="D-Wave" />
-
-<sub><code>// OPTIMIZATION</code></sub>
-
-<img src="https://img.shields.io/badge/GUROBI-000000?style=for-the-badge" alt="Gurobi" />
-<img src="https://img.shields.io/badge/PULP-000000?style=for-the-badge" alt="PuLP" />
-
-<sub><code>// LANGUAGES</code></sub>
-
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=6FF3FF" alt="Python" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=6FF3FF" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=6FF3FF" alt="TypeScript" />
-
-<sub><code>// SCIENTIFIC COMPUTING</code></sub>
-
-<img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=6FF3FF" alt="Jupyter" />
-<img src="https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/PARAVIEW-000000?style=for-the-badge" alt="ParaView" />
-
-<sub><code>// MACHINE LEARNING</code></sub>
-
-<img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=6FF3FF" alt="NumPy" />
-<img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=6FF3FF" alt="Pandas" />
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=6FF3FF" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=6FF3FF" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=6FF3FF" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/XGBOOST-000000?style=for-the-badge" alt="XGBoost" />
-<img src="https://img.shields.io/badge/MLFLOW-000000?style=for-the-badge&logo=mlflow&logoColor=6FF3FF" alt="MLflow" />
-
-<sub><code>// TOOLS</code></sub>
-
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=6FF3FF" alt="Git" />
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=6FF3FF" alt="GitHub" />
-<img src="https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=6FF3FF" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=6FF3FF" alt="Docker" />
-<img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZGRjNGRiIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D" alt="VS Code" />
+<table width="100%">
+  <tr>
+    <td width="24%"><code>// QUANTUM</code></td>
+    <td width="76%">
+      <img src="https://img.shields.io/badge/QISKIT-000000?style=flat-square&logo=qiskit&logoColor=6FF3FF" alt="Qiskit" />
+      <img src="https://img.shields.io/badge/IBM_QUANTUM-000000?style=flat-square" alt="IBM Quantum" />
+      <img src="https://img.shields.io/badge/PENNYLANE-000000?style=flat-square" alt="PennyLane" />
+      <img src="https://img.shields.io/badge/D--WAVE-000000?style=flat-square" alt="D-Wave" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>// OPTIMIZATION</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/GUROBI-000000?style=flat-square" alt="Gurobi" />
+      <img src="https://img.shields.io/badge/PULP-000000?style=flat-square" alt="PuLP" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>// LANGUAGES</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=6FF3FF" alt="Python" />
+      <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=6FF3FF" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=6FF3FF" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>// SCIENTIFIC</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/JUPYTER-000000?style=flat-square&logo=jupyter&logoColor=6FF3FF" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/MATPLOTLIB-000000?style=flat-square" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/PARAVIEW-000000?style=flat-square" alt="ParaView" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>// MACHINE LEARNING</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/NUMPY-000000?style=flat-square&logo=numpy&logoColor=6FF3FF" alt="NumPy" />
+      <img src="https://img.shields.io/badge/PANDAS-000000?style=flat-square&logo=pandas&logoColor=6FF3FF" alt="Pandas" />
+      <img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=flat-square&logo=scikitlearn&logoColor=6FF3FF" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/PYTORCH-000000?style=flat-square&logo=pytorch&logoColor=6FF3FF" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=flat-square&logo=tensorflow&logoColor=6FF3FF" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/XGBOOST-000000?style=flat-square" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/MLFLOW-000000?style=flat-square&logo=mlflow&logoColor=6FF3FF" alt="MLflow" />
+    </td>
+  </tr>
+  <tr>
+    <td><code>// TOOLS</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=6FF3FF" alt="Git" />
+      <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=6FF3FF" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=flat-square&logo=githubactions&logoColor=6FF3FF" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=6FF3FF" alt="Docker" />
+      <img src="https://img.shields.io/badge/VS_CODE-000000?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZGRjNGRiIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
