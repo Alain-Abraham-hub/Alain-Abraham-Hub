@@ -111,3 +111,37 @@
 </table>
 
 </div>
+
+<br />
+
+<div align="center">
+
+<img src="./assets/section-stats.svg" alt="GitHub Stats" width="100%" />
+
+<br />
+
+<p>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" height="170" />
+  &nbsp;
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="170" />
+</p>
+
+<p>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="32%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="32%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="32%" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Alain-Abraham-Hub&background=000000&border=6FF3FF&stroke=1A3A40&ring=6FF3FF&fire=FF9A3C&currStreakNum=E8FDFF&sideNums=E8FDFF&currStreakLabel=6FF3FF&sideLabels=6FF3FF&dates=A5C4CA" alt="Contribution Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alain-Abraham-Hub&bg_color=000000&color=6FF3FF&line=6FF3FF&point=FF9A3C&area=true&area_color=6FF3FF&hide_border=false&custom_title=CONTRIBUTION_ACTIVITY" alt="Contribution Activity Graph" width="96%" />
+</p>
+
+<br />
+
+<sub><code>SYS.STATUS // END OF LINE</code></sub>
+
+</div>
