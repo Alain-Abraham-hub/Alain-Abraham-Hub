@@ -34,11 +34,11 @@
         fill="#E8FDFF" stroke="#6FF3FF" stroke-width="0.4" filter="url(#glow)">GITHUB STATS</text>
 
   <line x1="40" y1="35" x2="335" y2="35" stroke="#FF9A3C" stroke-width="2" stroke-linecap="round"
-        stroke-dasharray="40 600" filter="url(#glow)">
-    <animate attributeName="stroke-dashoffset" from="40" to="-600" dur="3.6s" begin="-2s" repeatCount="indefinite" />
+        stroke-dasharray="50 245" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="50" to="-245" dur="2.8s" begin="-2s" repeatCount="indefinite" />
   </line>
   <line x1="665" y1="35" x2="960" y2="35" stroke="#6FF3FF" stroke-width="2" stroke-linecap="round"
-        stroke-dasharray="40 600" filter="url(#glow)">
-    <animate attributeName="stroke-dashoffset" from="-600" to="40" dur="3.6s" begin="-2s" repeatCount="indefinite" />
+        stroke-dasharray="50 245" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="-245" to="50" dur="2.8s" begin="-2s" repeatCount="indefinite" />
   </line>
 </svg>

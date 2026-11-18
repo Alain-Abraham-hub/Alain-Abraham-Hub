@@ -6,18 +6,18 @@
       <stop offset="100%" stop-color="#03141c" />
     </linearGradient>
 
-    <linearGradient id="floorFade" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="floorFade" x1="0" y1="190" x2="0" y2="300" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#6FF3FF" stop-opacity="0.15" />
       <stop offset="100%" stop-color="#6FF3FF" stop-opacity="0.6" />
     </linearGradient>
 
-    <linearGradient id="horizonFade" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="horizonFade" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#6FF3FF" stop-opacity="0" />
       <stop offset="50%" stop-color="#6FF3FF" stop-opacity="1" />
       <stop offset="100%" stop-color="#6FF3FF" stop-opacity="0" />
     </linearGradient>
 
-    <linearGradient id="scanFade" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="scanFade" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#6FF3FF" stop-opacity="0" />
       <stop offset="50%" stop-color="#6FF3FF" stop-opacity="0.18" />
       <stop offset="100%" stop-color="#6FF3FF" stop-opacity="0" />
@@ -121,17 +121,17 @@
   <line x1="0" y1="190" x2="1000" y2="190" stroke="url(#horizonFade)" stroke-width="1.6" filter="url(#softGlow)" />
 
   <!-- Light cycle trails -->
-  <line x1="0" y1="254" x2="1000" y2="254" stroke="#6FF3FF" stroke-width="2.2" stroke-linecap="round"
-        stroke-dasharray="160 1840" filter="url(#softGlow)">
-    <animate attributeName="stroke-dashoffset" from="160" to="-1840" dur="4.2s" repeatCount="indefinite" />
+  <line x1="0" y1="254" x2="1000" y2="254" stroke="#6FF3FF" stroke-width="2.4" stroke-linecap="round"
+        stroke-dasharray="180 820" filter="url(#softGlow)">
+    <animate attributeName="stroke-dashoffset" from="180" to="-820" dur="3.6s" repeatCount="indefinite" />
   </line>
-  <line x1="0" y1="219" x2="1000" y2="219" stroke="#FF9A3C" stroke-width="1.6" stroke-linecap="round"
-        stroke-dasharray="110 1890" filter="url(#softGlow)" opacity="0.9">
-    <animate attributeName="stroke-dashoffset" from="-1890" to="110" dur="5.8s" repeatCount="indefinite" />
+  <line x1="0" y1="219" x2="1000" y2="219" stroke="#FF9A3C" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="140 860" filter="url(#softGlow)" opacity="0.95">
+    <animate attributeName="stroke-dashoffset" from="-860" to="140" dur="4.4s" repeatCount="indefinite" />
   </line>
-  <line x1="0" y1="281" x2="1000" y2="281" stroke="#6FF3FF" stroke-width="1.8" stroke-linecap="round"
-        stroke-dasharray="90 1910" filter="url(#softGlow)" opacity="0.75">
-    <animate attributeName="stroke-dashoffset" from="-1910" to="90" dur="3.4s" begin="-1.5s" repeatCount="indefinite" />
+  <line x1="0" y1="281" x2="1000" y2="281" stroke="#6FF3FF" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="120 880" filter="url(#softGlow)" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" from="-880" to="120" dur="3s" begin="-1.2s" repeatCount="indefinite" />
   </line>
 
   <!-- HUD corner brackets -->
